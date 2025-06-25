@@ -1,4 +1,3 @@
-Great! Here's a polished `README.md` for your **HelloWorld** repo, assuming it's a basic "Hello, World!" program meant for beginners.
 
 ---
 
