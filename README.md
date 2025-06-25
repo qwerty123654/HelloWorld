@@ -30,7 +30,7 @@ This project prints `Hello, World!` to the console. It's the traditional first s
      javac HelloWorld.java
      java HelloWorld
      ```
-     ```
+
 
 ## 💡 Who It's For
 
