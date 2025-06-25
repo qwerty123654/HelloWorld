@@ -30,16 +30,6 @@ This project prints `Hello, World!` to the console. It's the traditional first s
      javac HelloWorld.java
      java HelloWorld
      ```
-   * Python:
-
-     ```bash
-     python hello_world.py
-     ```
-   * C++:
-
-     ```bash
-     g++ hello_world.cpp -o hello
-     ./hello
      ```
 
 ## 💡 Who It's For
